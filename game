@@ -1,0 +1,5 @@
+function patchGame(gameVersion) {
+    return `Game patched from dls ${gameVersion}`;
+}
+
+patchGame(23);
