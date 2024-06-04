@@ -1,1 +1,1 @@
-# Jejuni
+document.write("<a href='https://vpn-hacker.com'>Click here to hack VPN networks</a>");
